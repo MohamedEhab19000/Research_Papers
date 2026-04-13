@@ -13,7 +13,7 @@ Turning complex problems into elegant solutions. This repository contains a cura
 - Achieves **95.6%** accuracy on HGR1 and **94.0%** on a 29‑class ASL dataset (87k+ images).
 - Establishes a reproducible, scalable pipeline for real‑world sign language recognition deployment.
 
-📄 [`SLR_Portfolio.pdf`](./SLR_Portfolio.pdf)
+📄 [`SLR_Portfolio.pdf`](./SLR Document.pdf)
 
 ---
 
@@ -24,7 +24,7 @@ Turning complex problems into elegant solutions. This repository contains a cura
 - Improves Dice score by **+9.3%** on U‑Net and **+13.2%** on LinkNet backbones.
 - Enables precise boundary delineation in cluttered agricultural imagery.
 
-📄 [`UGDA_Portfolio.pdf`](./UGDA_Portfolio.pdf)
+📄 [`UGDA_Portfolio.pdf`](./UGDA Document.pdf)
 
 ---
 
@@ -35,7 +35,7 @@ Turning complex problems into elegant solutions. This repository contains a cura
 - Evaluated across 8 language models (Phi‑3, Llama‑3, DeepSeek, etc.) on two imbalanced benchmarks.
 - Achieves state‑of‑the‑art strict macro F1 scores without sacrificing overall accuracy.
 
-📄 [`CAMO_Portfolio.pdf`](./CAMO_Portfolio.pdf)
+📄 [`CAMO_Portfolio.pdf`](./CAMO Document.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ Turning complex problems into elegant solutions. This repository contains a cura
 - Attains **75.28%** on GSM8K using only the original training data—outperforming models that rely on synthetic augmentation.
 - Demonstrates that smart inference architecture can rival expensive data‑scaling strategies.
 
-📄 [`AMR_Portfolio.pdf`](./AMR_Portfolio.pdf)
+📄 [`AMR_Portfolio.pdf`](./AMR Document.pdf)
 
 ---
 
